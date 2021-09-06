@@ -6,6 +6,8 @@
 
 另外封装类部分组件Widget,Utils等 自行品尝。
 
+**（登录API 需要自行填写相关逻辑，也可以在login文件夹下找到controller,注释掉login的逻辑，直接跳转）**
+
 
 
 ![买瓜~~](https://github.com/PhoenixLeeSin/LeeImages/blob/master/uPic/aa.gif)
