@@ -6,7 +6,11 @@
 
 另外封装类部分组件Widget,Utils等 自行品尝。
 
-<video src="/Users/liguicheng/Desktop/屏幕录制2021-09-06 上午10.31.59.mov"></video>
+
+
+<img src="/Users/liguicheng/Desktop/未命名.gif" alt="未命名" style="zoom:150%;" />
+
+
 
 ## Getting Started
 
