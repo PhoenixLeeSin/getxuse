@@ -1,6 +1,12 @@
 # flutterlogout
 
-A new Flutter project.
+### 使用GetX，实现的三大功能：
+
+#### 状态管理/路由管理/依赖管理。
+
+另外封装类部分组件Widget,Utils等 自行品尝。
+
+<video src="/Users/liguicheng/Desktop/屏幕录制2021-09-06 上午10.31.59.mov"></video>
 
 ## Getting Started
 
